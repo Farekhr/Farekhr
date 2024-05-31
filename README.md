@@ -1,6 +1,6 @@
 🚀 Exploring the Cosmos with Ryan Farekh
 
-Greetings, Earthlings! 👽 I'm Rayan Farekh, your tour guide through the digital cosmos, a self-professed "Student of the Code," orbiting in the vast galaxy of Computer Engineering at McMaster University. 🌌
+Greetings, Earthlings! 👽 I'm Ryan Farekh, your tour guide through the digital cosmos, a self-professed "Student of the Code," orbiting in the vast galaxy of Computer Engineering at McMaster University. 🌌
 
 💻 Code Maestro
 
